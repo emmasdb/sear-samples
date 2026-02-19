@@ -1,2 +1,3 @@
 # sear-samples
-Open source samples of Python scripts using pySEAR
+
+Open source samples of code using SEAR.
